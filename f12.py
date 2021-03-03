@@ -6,3 +6,5 @@ def f12(x):
     if (x < -42):
         return x**4 + 6*(x**2) + 1;
     return math.sin(math.tan(x) - 20*(x**2)) - x**6
+#made by mac Mie
+#mot hai ba bon nam sau
